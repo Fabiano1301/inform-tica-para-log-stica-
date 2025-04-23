@@ -9,6 +9,4 @@ https://www.canva.com/design/DAGgclFC1ZU/NxUDCsllm-E1p6y-nsSVvg/edit
 ![Captura de tela 2025-04-22 211350](https://github.com/user-attachments/assets/b7e2a369-5769-4f57-93cb-a5ff5cd94bc0)
 ![Captura de tela 2025-04-22 211414](https://github.com/user-attachments/assets/15ac8af2-878c-4b61-9cba-0e75c909391f)
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/FABIANO%20ALMEIDA%20CARDOSO%20DE%20SOUZA/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/Analise_Alunos_Estrangeiros%20(version%202).xlsx?d=w00c09fb1451b45eaaaa11dd8b2546be9&csf=1&web=1&e=5MtDMf
-
-
 ## terceira atividade: 
