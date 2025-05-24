@@ -19,3 +19,16 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/willian_goncalves11_fatec_sp
 ![Captura de tela 2025-04-22 203437](https://github.com/user-attachments/assets/3b516125-6aef-4a1a-aae2-b36af5b9e27a)
 ![Captura de tela 2025-04-22 195850](https://github.com/user-attachments/assets/bd81f434-2881-4318-8e42-8a1f39a1e861)
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/willian_goncalves11_fatec_sp_gov_br/Documents/info.pbix?csf=1&web=1&e=2EkpP3
+## quarta atividade: cerveja 
+perguntas: Os dois modelos são iguais? Não são iguais 
+Explique se houver diferenças e o motivo de elas existirem? a regressão linear esta diferente, pois o modelo do senhor Ivanildo Batista esta mais completo que meu modelo 
+Qual modelo você usaria?  eu usaria do senhor Ivanildo Batista Por quê? este modelo tem mais informações que o meu modelo 
+![Captura de tela 2025-05-23 211028](https://github.com/user-attachments/assets/14fb2d7b-89db-48f8-a050-d51645308f37)
+![Captura de tela 2025-05-23 211059](https://github.com/user-attachments/assets/09e8b7cd-fb6e-48af-b162-8cc499de0726)
+![Captura de tela 2025-05-23 211133](https://github.com/user-attachments/assets/856aca82-9d96-4ad1-8363-6c201c885730)
+![Captura de tela 2025-05-23 211152](https://github.com/user-attachments/assets/dc009e8d-4aa1-4f2e-a677-2ed53770ff60)
+## atividade: casas 
+não foi gerado o grafico da regressão linear, mas teve resultado positivo nas outras etapas 
+![Captura de tela 2025-05-23 214727](https://github.com/user-attachments/assets/be06593e-4747-47bd-80cc-a855f26a62a4)
+![Captura de tela 2025-05-23 213615](https://github.com/user-attachments/assets/09f5b0fe-68b5-4aee-996c-30f326e265b7)
+![Captura de tela 2025-05-23 214601](https://github.com/user-attachments/assets/a69d5853-8321-4824-b662-378aa7478557)
