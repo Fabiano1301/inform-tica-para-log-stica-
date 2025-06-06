@@ -36,5 +36,7 @@ não foi gerado o grafico da regressão linear, mas teve resultado positivo nas 
 ![Captura de tela 2025-06-03 211040](https://github.com/user-attachments/assets/adee9480-7dab-4b97-99d8-8752426e7e65)
 ![Captura de tela 2025-06-03 212615](https://github.com/user-attachments/assets/12fc0afb-36d4-4968-8417-28b32e3a07ca)
 ![Snadalias Captura de tela 2025-05-30 202441](https://github.com/user-attachments/assets/a5c94c10-2968-4ab2-bbdb-9c9a02780a7b)
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx?d=w536575edd6ca4fc4bfccebb5c5bcaa49&csf=1&web=1&e=ysl30k
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=w1ff9707d09ec481297572d131711d74b&csf=1&web=1&e=bbRKqO
 
 
