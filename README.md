@@ -32,7 +32,7 @@ não foi gerado o grafico da regressão linear, mas teve resultado positivo nas 
 ![Captura de tela 2025-05-23 214727](https://github.com/user-attachments/assets/be06593e-4747-47bd-80cc-a855f26a62a4)
 ![Captura de tela 2025-05-23 213615](https://github.com/user-attachments/assets/09f5b0fe-68b5-4aee-996c-30f326e265b7)
 ![Captura de tela 2025-05-23 214601](https://github.com/user-attachments/assets/a69d5853-8321-4824-b662-378aa7478557)
-## atividade: produtos A e B, Soorvete e Sandalia 
+## atividade: Produtos A e B, Sorvete e Sandalia 
 ![Captura de tela 2025-06-03 211040](https://github.com/user-attachments/assets/adee9480-7dab-4b97-99d8-8752426e7e65)
 ![Captura de tela 2025-06-03 212615](https://github.com/user-attachments/assets/12fc0afb-36d4-4968-8417-28b32e3a07ca)
 ![Snadalias Captura de tela 2025-05-30 202441](https://github.com/user-attachments/assets/a5c94c10-2968-4ab2-bbdb-9c9a02780a7b)
