@@ -38,5 +38,8 @@ não foi gerado o grafico da regressão linear, mas teve resultado positivo nas 
 ![Snadalias Captura de tela 2025-05-30 202441](https://github.com/user-attachments/assets/a5c94c10-2968-4ab2-bbdb-9c9a02780a7b)
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx?d=w536575edd6ca4fc4bfccebb5c5bcaa49&csf=1&web=1&e=ysl30k
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=w1ff9707d09ec481297572d131711d74b&csf=1&web=1&e=bbRKqO
+## ultima atividade Power Apps e Power Automate
+https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-06%20201520.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PyvhkJ
+https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-06%20205055.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8IWo52
 
 
