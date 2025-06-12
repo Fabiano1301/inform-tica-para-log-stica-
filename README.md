@@ -40,7 +40,6 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=w1ff9707d09ec481297572d131711d74b&csf=1&web=1&e=bbRKqO
 ## ultima atividade Power Apps e Power Automate
 https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Power%20Automate%20%202025-06-06%20205055.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jRDvOc
-https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Power%20Apps%202025-06-11%20220627.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SkFSaZ
-https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-06%20205055.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8IWo52
+
 
 
