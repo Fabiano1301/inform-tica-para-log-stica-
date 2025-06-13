@@ -40,5 +40,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=w1ff9707d09ec481297572d131711d74b&csf=1&web=1&e=bbRKqO
 ## ultima atividade Power Apps e Power Automate
 https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabiano_souza22_fatec_sp_gov_br/Documents/Power%20Automate%20%202025-06-06%20205055.mp4?
-
+https://fatecspgov-my.sharepoint.com/:v:/g/personal/fabiano_souza22_fatec_sp_gov_br/EQ_5suWCok9FqpBWcorl4Z0BjvSXZsm4oxKSHyd-a_5eEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PGb2b1
 
